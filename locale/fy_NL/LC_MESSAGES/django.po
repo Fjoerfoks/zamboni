@@ -25,7 +25,7 @@ msgstr "Te ûndersykjen misbrûkmeldingen: %s"
 
 #: mkt/abuse/forms.py:78 mkt/abuse/forms.py:92 mkt/ratings/forms.py:67
 msgid "Skip for now"
-msgstr "Voorlopig overslaan"
+msgstr "Foarlopich oerslaan"
 
 #: mkt/abuse/forms.py:79 mkt/abuse/forms.py:93
 msgid "Mark all reports Read"
@@ -299,7 +299,7 @@ msgstr "Kanada"
 
 #: mkt/constants/bango.py:59
 msgid "Cape Verde"
-msgstr "Kaapverdië"
+msgstr "Kaapferdië"
 
 #: mkt/constants/bango.py:60 mkt/constants/regions.py:125
 msgid "Cayman Islands"
@@ -451,7 +451,7 @@ msgstr "Frâns Polyneesje"
 
 #: mkt/constants/bango.py:97 mkt/constants/regions.py:81
 msgid "French Southern Territories"
-msgstr "Frânse Súdlike en Antarktyske Gebieden"
+msgstr "Frânske Súdlike en Antarktyske Gebieden"
 
 #: mkt/constants/bango.py:98 mkt/constants/regions.py:147
 msgid "Gabon"
@@ -1701,9 +1701,10 @@ msgstr "Smartphone-schermafmetingen (qHD)"
 msgid ""
 "The app requires the platform to have a smartphone-sized display (having qHD resolution). This option indicates that the app will be unusable on larger displays (e.g., tablets, desktop, large or "
 "high-DPI phones)."
-msgstr ""
-"De app vereist dat het platform een scherm met smartphone-afmetingen (met qHD-resolutie) heeft. Deze optie geeft aan dat de app niet kan worden gebruikt op grotere schermen (zoals tablets, "
-"desktops, grote telefoons of telefoons met een hoge resolutie)."
+msgstr "De app vereist dat het platform een scherm met smartphone-afmetingen (met "
+"qHD-resolutie) heeft. Deze optie geeft aan dat de app niet kan worden "
+"gebruikt op grotere schermen (zoals tablets, desktops, grote telefoons of "
+"telefoons met een hoge resolutie)."
 
 #: mkt/constants/features.py:166
 msgid "The app requires that the platform can decode and play MP3 files."
@@ -2063,7 +2064,7 @@ msgstr "Beoordelingspanel voor entertainmentsoftware"
 
 #: mkt/constants/ratingsbodies.py:289
 msgid "Parental Guidance"
-msgstr ""
+msgstr "Alderlik tafersjoch"
 
 #: mkt/constants/ratingsbodies.py:302
 msgid "Europe"
@@ -2417,8 +2418,12 @@ msgid "This IARC certificate is already being used for another app. Please creat
 msgstr "Dit IARC-certificaat wordt al voor een andere app gebruikt. Maak een nieuw IARC-beoordelingscertificaat."
 
 #: mkt/developers/forms.py:1097
-msgid "This Certificate ID is not recognized by IARC, or is already attached to another app in the Firefox Marketplace."
+msgid ""
+"This Certificate ID is not recognized by IARC, or is already attached to "
+"another app in the Firefox Marketplace."
 msgstr ""
+"Dizze sertifikaat-ID wurdt net troch IARC werkend, of is al oan in oare "
+"app yn de Firefox Marketplace keppele."
 
 #: mkt/developers/forms.py:1165
 msgid "Please enter a valid submission ID."
@@ -4046,9 +4051,18 @@ msgstr "Mijn app laten waarderen"
 
 #: mkt/developers/templates/developers/apps/ratings/ratings_edit.html:27
 msgid ""
-"Your app has already been age rated and has an International Age Rating Coalition (IARC) certificate attached. To change the rating, click on the button below: that will open a new window where you "
-"can fill out a new questionnaire about the contents of your app. Upon completion, the window will close and your app will then have an new age rating and certificate."
+"Your app has already been age rated and has an International Age Rating "
+"Coalition (IARC) certificate attached. To change the rating, click on the "
+"button below: that will open a new window where you can fill out a new "
+"questionnaire about the contents of your app. Upon completion, the window "
+"will close and your app will then have an new age rating and certificate."
 msgstr ""
+"Uw app heeft al een leeftijdsclassificatie en een gekoppeld certificaat van "
+"de International Age Rating Coalition (IARC). Klik op de onderstaande knop "
+"om de classificatie te wijzigen; hierdoor wordt een nieuw venster geopend "
+"waarin u een nieuwe vragenlijst over de inhoud van uw app kunt invullen. Na "
+"voltooiing wordt het venster gesloten en heeft uw app een nieuwe "
+"leeftijdsclassificatie en certificaat."
 
 #: mkt/developers/templates/developers/apps/ratings/ratings_edit.html:38
 msgid ""
@@ -4080,7 +4094,7 @@ msgstr "IARC-beoordelingscertificaat aanmaken"
 
 #: mkt/developers/templates/developers/apps/ratings/ratings_edit.html:103
 msgid "Already Have an IARC Certificate?"
-msgstr ""
+msgstr "Hawwe jo al in IARC-sertifikaat?"
 
 #: mkt/developers/templates/developers/apps/ratings/ratings_edit.html:105
 msgid "Already Have Your App Rated?"
@@ -4095,8 +4109,12 @@ msgstr ""
 "Marketplace-ynstjoering mei dat sertifikaat te keppeljen."
 
 #: mkt/developers/templates/developers/apps/ratings/ratings_edit.html:121
-msgid "Warning: if a certificate is already attached to your app, this will overwrite it. Use with caution."
+msgid ""
+"Warning: if a certificate is already attached to your app, this will "
+"overwrite it. Use with caution."
 msgstr ""
+"Warskôging: as der al in sertifikaat oan jo app keppele is, wurdt dit "
+"oerskreaun. Wês foarsichtich."
 
 #: mkt/developers/templates/developers/apps/ratings/ratings_edit.html:129
 msgid "If you have already gotten your app rated via the IARC Global Ratings Tool above and already have an IARC security code, you can manually enter it here."
@@ -4132,7 +4150,7 @@ msgstr "De beveiligingscode kan op het naar u verzonden certificaat worden terug
 
 #: mkt/developers/templates/developers/apps/ratings/ratings_summary.html:15
 msgid "Confirm your choice of IARC Certiticate"
-msgstr ""
+msgstr "Befêstigje jo kar fan IARC-sertifikaat"
 
 #: mkt/developers/templates/developers/apps/ratings/ratings_summary.html:17 mkt/lookup/templates/lookup/helpers/app_header.html:15 mkt/lookup/templates/lookup/helpers/website_header.html:16
 msgid "Summary"
@@ -4140,11 +4158,11 @@ msgstr "Gearfetting"
 
 #: mkt/developers/templates/developers/apps/ratings/ratings_summary.html:26
 msgid "IARC Certificate ID"
-msgstr ""
+msgstr "IARC-sertifikaat-ID"
 
 #: mkt/developers/templates/developers/apps/ratings/ratings_summary.html:34
 msgid "Confirm"
-msgstr ""
+msgstr "Befêstigje"
 
 #: mkt/developers/templates/developers/apps/ratings/ratings_summary.html:50
 msgid "Rating System"
